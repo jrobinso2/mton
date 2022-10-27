@@ -6,7 +6,7 @@ Because MTON is open source we rely on folks like you!  Our community is made up
 
 ## Developer Contributions
 There are currently opportunities for developer contributions in the following areas:
-- [MTON Terms & Definitions](./docs/definitions.md)
+- [MTON Definitions](./docs/definitions.md)
 - [MTON Data Structures](./docs/data.md)
 - [MTON Namespaces](./docs/namespaces.md)
 - [MTON Classes](./docs/classes.md)

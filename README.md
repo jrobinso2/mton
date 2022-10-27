@@ -14,7 +14,7 @@ MTON works by saving PBR material data from 3D software, like Cinema 4D or Maya,
 ## Contributing to MTON
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-To see areas where contributions are most needed, see our [contributions](contributions.md) page.
+To see areas where contributions are most needed, see our [contributing](CONTRIBUTING.md) page.
 
 
 ## Resources

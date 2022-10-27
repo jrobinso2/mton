@@ -29,9 +29,10 @@ Okay.  Now that you understand Material X (I'm sure you read everything on their
 
 ### Goals
 - Nov-2022: Agree on approach.
-- Nov-2022: Begin [MTON Definitions]()
-- Nov-2022: Begin [MTON Data Structures]()
-- TBD: [MTON Namespaces]()
-- TBD: [MTON Classes]()
-- TBD: [MTON File Format Definition]()
-- TBD: [Exchange Plugins]()
+- Nov-2022: Identify outages in project documentation.
+- Nov-2022: Begin [MTON Definitions](./docs/definitions.md)
+- Nov-2022: Begin [MTON Data Structures](./docs/structures.md)
+- TBD: [MTON Namespaces](./docs/namespaces.md)
+- TBD: [MTON Classes](./docs/classes.md)
+- TBD: [MTON File Format Definition](./docs/file-format.md)
+- TBD: [Exchange Plugins](./docs/plugins.md)

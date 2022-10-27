@@ -14,9 +14,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Resources
-[Material X Website](https://www.materialx.org)
-[Material X Specification](https://materialx.org/assets/MaterialX.v1.38.Spec.pdf)
-[JSON Specification](https://www.json.org/json-en.html)
+- [Material X Website](https://www.materialx.org)
+- [Material X Specification](https://materialx.org/assets/MaterialX.v1.38.Spec.pdf)
+- [JSON Specification](https://www.json.org/json-en.html)
+- [Physically Base Rendering, 3rd ed.](https://www.pbr-book.org/)
 
 ## License
 MTON is open-source.  You may use, modify, build, or contribute to the codebase subject to the terms of the MIT license.

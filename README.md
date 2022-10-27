@@ -14,10 +14,8 @@ MTON works by saving PBR material data from 3D software, like Cinema 4D or Maya,
 ## Contributing to MTON
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Work is needed across the following areas:
-- [MTON Data Structure]()
-- [MTON Class]()
-- [Exchange Plugins]()
+To see areas where contributions are most needed, see our [contributions](contributions.md) page.
+
 
 ## Resources
 - [Material X Website](https://www.materialx.org)
@@ -26,5 +24,5 @@ Work is needed across the following areas:
 - [Physically Base Rendering, 3rd ed.](https://www.pbr-book.org/)
 
 ## License
-MTON is open-source.  You may use, modify, build, or contribute to the codebase subject to the terms of the MIT license.
+MTON is open source.  You may use, modify, build, or contribute to the codebase subject to the terms of the MIT license.
 [MIT](https://choosealicense.com/licenses/mit/)

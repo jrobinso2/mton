@@ -6,16 +6,16 @@ Because MTON is open source we rely on folks like you!  Our community is made up
 
 ## Developer Contributions
 There are currently opportunities for developer contributions in the following areas:
-- [MTON Terms & Definitions]()
-- [MTON Data Structures]()
-- [MTON Namespaces]()
-- [MTON Classes]()
-- [MTON File Format Definition]()
-- [Exchange Plugins]()
+- [MTON Terms & Definitions](./docs/definitions.md)
+- [MTON Data Structures](./docs/data.md)
+- [MTON Namespaces](./docs/namespaces.md)
+- [MTON Classes](./docs/classes.md)
+- [MTON File Format Definition](./docs/file-format.md)
+- [Exchange Plugins](./docs/plugins.md)
 
 ## Roadmap
 ### What We're Building
-Just to refresh, MaterialX Object Notation (MTON) is a simplified build of a subset of the [MaterialX](http://materialx.org) open standard for material exchange. MTON encodes PBR materials to simplified key:value pairs in a JSON object structure.  
+Just to refresh, MaterialX Object Notation (MTON) is a simplified partial build of the [MaterialX](http://materialx.org) open standard for material exchange. MTON converts PBR portions of the MaterialX XML library to simplified key:value pairs in a JSON object structure.  
 
 By simplifying how MaterialX data is encoded, we hope to simplify the creation of exchange plugins for popular rendering packages.
 
@@ -31,8 +31,9 @@ Okay.  Now that you understand Material X (I'm sure you read everything on their
 - Nov-2022: Agree on approach.
 - Nov-2022: Identify outages in project documentation.
 - Nov-2022: Begin [MTON Definitions](./docs/definitions.md)
-- Nov-2022: Begin [MTON Data Structures](./docs/structures.md)
+- Nov-2022: Begin [MTON Data Types](./docs/data.md)
 - TBD: [MTON Namespaces](./docs/namespaces.md)
 - TBD: [MTON Classes](./docs/classes.md)
 - TBD: [MTON File Format Definition](./docs/file-format.md)
 - TBD: [Exchange Plugins](./docs/plugins.md)
+- TBD: Plugin Testing

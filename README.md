@@ -13,6 +13,11 @@ MTON works by saving PBR material data from 3D software, like Cinema 4D or Maya,
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
+## Resources
+[Material X Website](https://www.materialx.org)
+[Material X Specification](https://materialx.org/assets/MaterialX.v1.38.Spec.pdf)
+[JSON Specification](https://www.json.org/json-en.html)
+
 ## License
 MTON is open-source.  You may use, modify, build, or contribute to the codebase subject to the terms of the MIT license.
 [MIT](https://choosealicense.com/licenses/mit/)

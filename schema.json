@@ -1,0 +1,37 @@
+{
+    "material_name":{
+        "base_color":{
+            "enabled":true,
+            "color":"255,255,255",
+            "bitmap": "/filepath/file_bc.png",
+            "rgba":true,
+            "opacity":1.0
+        },
+        "roughness":{
+            "enabled":true,
+            "roughness":0.0,
+            "bitmap":"/filepath/file_r.png"
+        },
+        "metalness":{
+            "enabled":true,
+            "bitmap":"/filepath/file_m.png",
+            "opacity":1.0
+        },
+        "normal":{
+            "enabled":false,
+            "bitmap":"/filepath/file_n.png",
+            "opacity":1.0,
+            "height":1.0
+        },
+        "ao":{
+            "enabled":false,
+            "bitmap":"/filepath/file_bc.png",
+            "scale":1.0
+        },
+        "transparency":{
+            "enabled":false,
+            "bitmap":"/filepath/file_a.png",
+            "opacity":1.0
+        }
+    }
+}

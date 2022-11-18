@@ -5,7 +5,7 @@ MaterialX Object Notation (MTON) is a simplified partial build of the [MaterialX
 
 ## Prerequisites
 MTON is built on Python 3. 
-Because MTON is designed to bridge two 3D applications or renderers, having two different 3D applications is encouraged. get the most out of MTON. MTON may also be used as an archival format to store material data in an application agnostic, human-readable format.
+Because MTON is designed to bridge two 3D applications or renderers, having two different 3D applications is encouraged to get the most out of MTON. MTON may also be used as an archival format to store material data in an application agnostic, human-readable format.
 
 ## Usage
 ### Material Exchange

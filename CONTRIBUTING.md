@@ -26,12 +26,13 @@ Okay.  Now that you understand Material X (I'm sure you read everything on their
 ### Status
 - 20-Oct-2022: Core dev team identified.
 - 26-Oct-2022: Github repository intiated.
+- 18-Nov-2022: Agreed on [Approach](./docs/approach.md).
+- 18-Nov-2022: Begin [MTON Schema](./mton/schema.json)
+- 18-Nov-2022: Begin [MTON Definitions](./docs/definitions.md)
+- 18-Nov-2022: Begin [MTON Data Types](./docs/data.md)
 
 ### Goals
-- Nov-2022: Agree on approach.
 - Nov-2022: Identify outages in project documentation.
-- Nov-2022: Begin [MTON Definitions](./docs/definitions.md)
-- Nov-2022: Begin [MTON Data Types](./docs/data.md)
 - TBD: [MTON Namespaces](./docs/namespaces.md)
 - TBD: [MTON Classes](./docs/classes.md)
 - TBD: [MTON File Format Definition](./docs/file-format.md)

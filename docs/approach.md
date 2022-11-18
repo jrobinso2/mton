@@ -21,7 +21,10 @@ See [schema](/mton/schema.json) for the current schema.
 
 ## 3. Key Features
 #### Lightweight Material File
+Text files are incredibly efficient, can be version controlled, and are human-friendly.
 #### Human-Readable Text Format
+`.mton` uses a JSON-like format of key:value pairs which is human-readable and editable.  Batch processes can be applied to hundreds or thousands of material files with text-based search tools and edit commands like find...replace.
+
 #### Supports PBR Materials
 #### Exchange Plugins for Compatible Render Engines
 

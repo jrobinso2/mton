@@ -9,7 +9,7 @@ Because MTON is designed to bridge two 3D applications or renderers, having two 
 
 ## Usage
 ### Material Exchange
-MTON works by saving PBR material data from 3D software, like Cinema 4D or Unity, to a human-readable JSON object structure saved in a `.mton` file.  Once the `.mton` file is saved, it can be archived as-is, or imported and/or modified by a different 3D application, like Unreal Engine or Maya.  Currently, MTON does not store binary data, like textures, related to the material, but rather contains relative paths to such data.  Textures and other bitmap dependencies will need to be stored with the `.mton` file to be read by other applications.  MTON does store numerical data like RGB or roughness values that are used by various material channels.
+MTON works by saving PBR material data from 3D software, like Cinema 4D or Unity, to a human-readable JSON object structure saved in a `.mton` file.  Once the `.mton` file is saved, it can be archived as-is, or imported and/or modified by a different 3D application, like Unreal Engine or Maya.  Currently, MTON does not store binary data, like textures used by the material, but rather contains relative paths to such data.  Textures and other bitmap dependencies will need to be stored with the `.mton` file to be read by other applications.  MTON does store numerical data like RGB or roughness values that are used by various material channels.
 
 ## Contributing to MTON
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

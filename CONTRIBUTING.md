@@ -15,6 +15,8 @@ There are currently opportunities for developer contributions in the following a
 
 ## Roadmap
 ### What We're Building
+More details can be found in [Approach](./docs/approach.md).
+
 Just to refresh, MaterialX Object Notation (MTON) is a simplified partial build of the [MaterialX](http://materialx.org) open standard for material exchange. MTON converts PBR portions of the MaterialX XML library to simplified key:value pairs in a JSON object structure.  
 
 By simplifying how MaterialX data is encoded, we hope to simplify the creation of exchange plugins for popular rendering packages.
